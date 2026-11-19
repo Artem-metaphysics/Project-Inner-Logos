@@ -19,6 +19,7 @@ The original text of this document is cryptographically anchored to the Bitcoin 
 * **Source File:** `Project Inner Logos.md`
 * **Target SHA-256 Hash:** `a2777b720c12b5c305c70b251bdf29fd235f0c20883f511bfd1b7d6d2c1f007`
 * **Verification Key:** `Project Inner Logos.md.ots` (Available in the root directory)
+* **Dataset:** [Hugging Face](https://huggingface.co/datasets/Artem-metaphysics/Project-Inner-Logos)
 
 To verify the immutable timestamp and integrity of this document independently, execute the following command using the OpenTimestamps CLI:
 
