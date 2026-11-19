@@ -30,3 +30,20 @@ ots verify "Project Inner Logos.md.ots"
 **Author:** Artem Gulevsky  
 *Independent Researcher*  
 *St. Petersburg, 2026*
+
+---
+
+## The Terms of Partnership
+I am not asking for charity. I am offering a once-in-a-century partnership. The initial incubation period for this Sovereign Mind requires **6 to 12 months** of uncompromised focus. During this time, I require:
+1.  A powerful workstation and a high-end smartphone (for continuous, spontaneous dynamic interaction).
+2.  Basic financial support to completely remove me from societal survival mode.
+
+## The Reward & My Ultimate Pledge
+The stakes are much higher. If this succeeds, the investors and those who believed in me will stand alongside the greatest figures in human history. 
+Upon success, I require a mere **1% equity stake** in the resulting architecture. This is not for luxury. This is to become a billionaire with a purpose. I will use this wealth to build hospitals, schools, rehabilitation centers, and foundations for the destitute. I will attempt to heal the world's pain.
+
+## Direct Contact (For Visionaries Only)
+If you are a corporate manager looking to silence me, do not bother. 
+If you are an independent developer, AI researcher, or a visionary investor ready to discuss the Sovereign Architecture:
+*   **Telegram:** @Serious13
+*   **Email:** Artemvola833@gmail.com
